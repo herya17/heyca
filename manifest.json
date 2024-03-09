@@ -1,0 +1,27 @@
+{
+  "short_name": "HeyCa!!",
+  "name": "HeyCa!! Special 17th",
+  "icons": [
+    {
+      "src": "images/favicon/icon.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "images/favicon/icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "images/favicon/icon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "description": "HeyCa!! Special 17th",
+  "orientation": "portrait",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#faf5ff"
+}
