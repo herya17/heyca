@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.4d0ef961.css",
-    "main.js": "/static/js/main.21eb157d.js",
+    "main.css": "/static/css/main.a00ed8d6.css",
+    "main.js": "/static/js/main.fd377b69.js",
     "static/media/domestic-theme02.mp3": "/static/media/domestic-theme02.135da6a71a9a7c607429.mp3",
     "static/media/AKU-BUKAN-UNTUKMU-TAMI-AULIA.mp3": "/static/media/AKU-BUKAN-UNTUKMU-TAMI-AULIA.b8e7f0076cf2ee24ecec.mp3",
     "static/media/TAPI-TAHUKAH-KAMU-DYGTA-ft-KAMASEAN-TAMI-AULIA.mp3": "/static/media/TAPI-TAHUKAH-KAMU-DYGTA-ft-KAMASEAN-TAMI-AULIA.6189248f7867fdab2187.mp3",
@@ -32,11 +32,11 @@
     "static/media/First-Love.mp3": "/static/media/First-Love.4d5f9df42a532df06882.mp3",
     "static/media/Close-to-You.mp3": "/static/media/Close-to-You.7b0f12046ff822bee10c.mp3",
     "index.html": "/index.html",
-    "main.4d0ef961.css.map": "/static/css/main.4d0ef961.css.map",
-    "main.21eb157d.js.map": "/static/js/main.21eb157d.js.map"
+    "main.a00ed8d6.css.map": "/static/css/main.a00ed8d6.css.map",
+    "main.fd377b69.js.map": "/static/js/main.fd377b69.js.map"
   },
   "entrypoints": [
-    "static/css/main.4d0ef961.css",
-    "static/js/main.21eb157d.js"
+    "static/css/main.a00ed8d6.css",
+    "static/js/main.fd377b69.js"
   ]
 }
